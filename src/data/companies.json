@@ -1,0 +1,28 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "Google",
+      "location": "California",
+      "industry": "Technology"
+    },
+    {
+      "id": 2,
+      "name": "Amazon",
+      "location": "Seattle",
+      "industry": "E-commerce"
+    },
+    {
+      "id": 3,
+      "name": "Microsoft",
+      "location": "Washington",
+      "industry": "Technology"
+    },
+    {
+      "id": 4,
+      "name": "Tesla",
+      "location": "Texas",
+      "industry": "Automotive"
+    }
+  ]
+}
